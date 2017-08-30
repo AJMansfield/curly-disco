@@ -1,0 +1,5 @@
+name: Curly Disco
+markdown: kramdown
+jekyll_auth:
+  whitelist:
+    - ?
